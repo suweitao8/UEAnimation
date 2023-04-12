@@ -1,4 +1,11 @@
-[Cc]ontent
+/[Cc]ontent/MetaHumans/
+/[Cc]ontent/Characters/
+/[Cc]ontent/LevelPrototyping/
+/[Cc]ontent/ThirdPerson/
+/[Cc]ontent/__ExternalActors__/
+/[Cc]ontent/__ExternalObjects__/
+
+Plugins
 Binaries
 DerivedDataCache
 Intermediate
